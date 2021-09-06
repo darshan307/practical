@@ -1,0 +1,5 @@
+enum DetailEvent {
+  add,
+
+  remove,
+}
